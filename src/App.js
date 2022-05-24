@@ -1,7 +1,9 @@
-import React, { Component } from 'react';
+import React, { Component, useEffect } from 'react';
 import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
+import AOS from "aos";
+import "aos/dist/aos.css";
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
@@ -40,6 +42,9 @@ class App extends Component {
   }
 
   componentDidMount(){
+    AOS.init({
+      duration:2000
+    })
     this.getResumeData();
   }
 
@@ -47,12 +52,12 @@ class App extends Component {
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
-        <About data={this.state.resumeData.main}/>
-        <Resume data={this.state.resumeData.resume}/>
-        <Portfolio data={this.state.resumeData.portfolio}/>
+        <About data={this.state.resumeData.main}/>       
+        <Resume data={this.state.resumeData.resume}/>    
+        <Portfolio data={this.state.resumeData.portfolio}/>   
         <Testimonials data={this.state.resumeData.testimonials}/>
         <Contact data={this.state.resumeData.main}/>
-        <Footer data={this.state.resumeData.main}/>
+        <Footer data={this.state.resumeData.main}/>      
       </div>
     );
   }

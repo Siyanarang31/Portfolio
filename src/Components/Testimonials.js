@@ -24,7 +24,7 @@ class Testimonials extends Component {
             </div>
 
             <div className="ten columns flex-container">
-                  <ul className="slides">
+                  <ul data-aos="fade-up" className="slides">
                       {testimonials}
                   </ul>
                </div>

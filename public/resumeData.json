@@ -1,77 +1,84 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Siya Narang",
+    "occupation": " Computer Science with specialisation in Bioinformatics",
+    "description": "I am a 20-year old coding enthusiast with proficient knowledge of web development, Graphic designing along with a bit of experience in UI/UX Designing",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "Highly organized and innovative thinker with enhanced problem solving skills. Experienced in designing, implementing and testing various softwares. Serverd in many team projects and looking for a workspace to grow more.",
+    "contactmessage": "Here are my details so you can easily get in touch with me",
+    "email": "siyanarang31@gmail.com",
+    "phone": "955-787-5271",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "Baghpat Raod",
+      "city": "Meerut",
+      "state": "Uttar Pradesh",
+      "zip": "250002"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/siya-narang-03bb5020b/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "http://instagram.com/siyanarang31",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/Siyanarang31",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I love to gain knowledge in every sector so here is an insight on what I have learnt so far",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Vellore Institute of Technology ",
+        "degree": "BTech in Computer Science with specialization in Bioinformatics",
+        "graduated": "3rd Year",
+        "description": "Laernt various computer languages and subjects like Data Structure and Algorithms, Macine Learning, Artificial Intelligence etc. Currently a part of various clubs and experienced great exposure. "
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Dewan Public School",
+        "degree": "PCM Student, CBSE",
+        "graduated": "2018-2020",
+        "description": "Scored 97% in boards."
+      },
+      {
+        "school": "Sophia Girls' School",
+        "degree": "ICSE",
+        "graduated": "Till 2018",
+        "description": "Scored 93% in Boards. Was a part of student council for two continuous years."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Metvy Learn",
+        "title": "Design Program ",
+        "years": "October 2021",
+        "description": "A one month Design Bootcamp that develops in us design thinking fundamentals. We worked on basics of canva, Photoshop, Fifma and then on a group project as well as an individual one where we had to design a music cover for an album. Aloso recieved a certificate along with a letter of recommendation"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "TCR Innovation",
+        "title": "Deep learning",
+        "years": "December 2021-February 2022",
+        "description": "It was an internship program on Deep Learning with computer vision where we first enhanced our skills on python by doing various assignments and then worked on real world problems by implementing artificial inteeligence and deep learning algorithms."
+      },
+      {
+        "company": "Team Sammard",
+        "title": "GUI and Website Developer",
+        "years": "Working since 2 years",
+        "description": "A student funded rocketry team that participates annually in two internation competitions. Developed GUI applications for this purpose using PyQt5. Also worked on the Team's website."
+      },
+      {
+        "company": "MATRIX-Multimedia Club",
+        "title": "Finance and Technical head",
+        "years": "2022-2023",
+        "description": "VIT's only multimedia club where we enhance our communication skills as well as our designing ability. Currently working on it's website"
       }
     ],
     "skills": [
@@ -80,74 +87,87 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "75%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "90%"
       },
       {
-        "name": "VueJs",
+        "name": "Java Script",
+        "level": "60%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "70%"
+      },
+      {
+        "name": "Python/PyQt5",
+        "level": "70%"
+      },
+      {
+        "name": "C/C++",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Figma",
+        "level": "50%"
+      },
+      {
+        "name": "Adobe Photoshop CC",
+        "level": "45%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Team Sammard Website",
+        "category": "A website for our college's rocketry Team",
+        "image": "workteam.jpg",
+        "url": "https://teamsammard.com/#/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "GUI interface for THE CANSAT COMPETITION",
+        "category": "An annual student design-buid-launch competition for space related topics",
+        "image": "workcansat.jpg",
+        "url": "https://github.com/Team-Sammard/CANSAT_GUI"
       },
       {
         "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "category": "A React based resume website",
+        "image": "workresumewebsite.jpg",
+        "url": "https://github.com/Siyanarang31/Portfolio"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "UI Design",
+        "category": "UI design of an ongoing website project",
+        "image": "workclubui.jpg",
+        "url": "https://www.figma.com/proto/OUD2jHd3qxYoaC13wr9ACB/MATRIX?node-id=28%3A25&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=28%3A25"
+      },
+      {
+        "title": "GUI interface for THE SPACEPORT AMERICA CUP",
+        "category": "An annual competition where over 150 teams launch their self-made rockets",
+        "image": "worksagui.jpg",
+        "url": "https://github.com/Team-Sammard/SA_GUI"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "That Siya has shown commendable skills in developing spectacular skills and that she was confident of her exceptional skills and personal qualities. He also said that she made a powerful asset and also demonstrated best of her dilligence and dedication.",
+        "user": "Mentor at Metvy"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "That she was always eager to learn new areas of problem-solving and did an excellent jon in completing all the allotted tasks and was always one of the most determined members of the group ",
+        "user": "Mentor at TCR Innovations"
       }
     ]
   }
